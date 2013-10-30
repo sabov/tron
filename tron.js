@@ -1,4 +1,5 @@
 var Tron = (function(){
+
 	var tron = function(){
 		var self = this;
 		jQuery(document.body).find('p').css('display', 'none');
